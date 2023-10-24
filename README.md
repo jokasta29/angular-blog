@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # angular-blog
 A blog project created with Angular based on dribbble layout.
->>>>>>> cbef6955060fd57f2b73ef19b33fe45a77bc00a7
+
