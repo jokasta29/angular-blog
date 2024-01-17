@@ -1,19 +1,9 @@
-<<<<<<< HEAD
-# Blog
-
-=======
-
 # Blog
 
 
 [Watch the video](https://youtu.be/G8oj4Akno3s)
 
 [![Web Page Screenshot](firstpage.jpg)](http://localhost:4200/)
-
-
-
-
-
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
@@ -47,4 +37,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # angular-blog
 A blog project created with Angular based on dribbble layout.
 
->>>>>>> 25286139c84cf8494adb1e0568d9f6ca50dd8816
