@@ -1,6 +1,16 @@
 
 # Blog
 
+
+[Watch the video](https://youtu.be/G8oj4Akno3s)
+
+[![Web Page Screenshot](firstpage.jpg)](http://localhost:4200/)
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 
 ## Development server
